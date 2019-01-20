@@ -227,6 +227,7 @@
     <TypeScriptCompile Include="Angular\e2e\src\app.po.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.component.ts" />
     <TypeScriptCompile Include="Angular\src\app\app.module.ts" />
+    <TypeScriptCompile Include="Angular\src\app\shared\api.service.ts" />
     <TypeScriptCompile Include="Angular\src\app\shared\CarRecord.ts" />
     <TypeScriptCompile Include="Angular\src\environments\environment.prod.ts" />
     <TypeScriptCompile Include="Angular\src\environments\environment.ts" />
