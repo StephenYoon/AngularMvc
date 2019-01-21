@@ -19,7 +19,7 @@ namespace MvcAngular.Controllers
             {
                 new Car { Id = 1, Year = 2018, Make = "Chevy", Model = "Camaro", Trim = "ZL1 Exorcist", HorsePower = 1000, WeightKilograms = 1732 },
                 new Car { Id = 2, Year = 2018, Make = "Dodge", Model = "Challenger", Trim = "Demon", HorsePower = 840, WeightKilograms = 1939},
-                new Car { Id = 3, Year = 2018, Make = "Ford", Model = "Mustang", Trim = "Boss", HorsePower = 750, WeightKilograms = 1720 },
+                new Car { Id = 3, Year = 2018, Make = "Ford", Model = "Mustang", Trim = "RTR", HorsePower = 700, WeightKilograms = 1720 },
                 new Car { Id = 3, Year = 2019, Make = "Genesis", Model = "G70", Trim = "Dynamic", HorsePower = 365, WeightKilograms = 1670 }
             };
         }
